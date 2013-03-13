@@ -1,4 +1,0 @@
-sitic
-=====
-
-Proyecto ERP
